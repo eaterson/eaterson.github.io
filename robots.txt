@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eaterson.github.io/sitemap.html.gz
+Sitemap: https://eaterson.github.io/app/sitemap.html.gz
+Sitemap: https://eaterson.github.io/assets/sitemap.html.gz
+Sitemap: https://eaterson.github.io/css/sitemap.html.gz
+Sitemap: https://eaterson.github.io/includes/sitemap.html.gz
+Sitemap: https://eaterson.github.io/item/sitemap.html.gz
+Sitemap: https://eaterson.github.io/src/sitemap.html.gz
